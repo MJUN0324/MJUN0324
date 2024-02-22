@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Structures, Design Pattern
 <!--- - 💞️ I’m looking to collaborate on Youtube --->
 - 📫 How to reach me E-mail: junmiyajima0324@gmail.com;
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
 
 <!---
 MJUN0324/MJUN0324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
