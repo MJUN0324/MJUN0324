@@ -4,8 +4,6 @@
 <!--- - 💞️ I’m looking to collaborate on Youtube --->
 - 📫 How to reach me E-mail: junmiyajima0324@gmail.com;
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MJUN0324)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MJUN0324)
 
 <!---
