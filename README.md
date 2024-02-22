@@ -5,7 +5,7 @@
 - 📫 How to reach me E-mail: junmiyajima0324@gmail.com;
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MJUN0324)
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJUN0324" />
 </a>
 <!---
 MJUN0324/MJUN0324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
